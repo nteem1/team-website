@@ -2,8 +2,8 @@
 A website detailing the bio of all of the team members.
 
 Role
-Boss:
-Noah teem 
+
+Boss: Noah teem 
 
 Manager: Jimmy 
 
