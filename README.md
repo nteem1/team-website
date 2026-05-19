@@ -7,4 +7,4 @@ Boss: Noah teem
 
 Manager: Jimmy 
 
-Employees: Cole Long, Geardo Valencia, Tyler vang, Tristian 
+Employees: Cole Long, Gerardo Valencia, Tyler vang, Tristian 
