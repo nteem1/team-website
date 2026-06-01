@@ -5,6 +5,6 @@ The Roles
 
 Boss: Noah teem 
 
-Manager: Jimmy 
-
 Employees: Cole Long, Geardo Valencia, Tyler vang, Tristian 
+
+Janitor: Jimmy Lin
